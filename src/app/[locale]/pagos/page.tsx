@@ -30,7 +30,7 @@ export default async function PaymentsPage({
 
   const t = await getTranslations("paymentsPage");
   const loc = locale as Locale;
-  const { zelle, bankTransferRD } = business.payments;
+  const { domestic, international } = business.payments;
 
   return (
     <>
@@ -46,24 +46,71 @@ export default async function PaymentsPage({
             </p>
           </div>
 
-          <div className="mt-9 grid gap-5 lg:mt-12 lg:grid-cols-2 lg:items-start lg:gap-7">
+          <h2 className="mt-12 text-[30px] font-extrabold leading-tight tracking-tight text-brand-ink lg:mt-16 lg:text-[38px]">
+            {t("domesticTitle")}
+          </h2>
+
+          <div className="mt-6 flex flex-col gap-5 rounded-[24px] border border-[#dfe7f2] bg-[#f3f7fc] px-6 py-5 sm:flex-row sm:items-center sm:gap-10 lg:px-8">
+            <p className="max-w-[230px] text-[15px] leading-snug text-brand-ink-soft">
+              {t("domesticNote")}
+            </p>
+            <dl className="flex flex-wrap gap-x-12 gap-y-4">
+              <div>
+                <dt className="text-[13px] text-brand-ink-soft">{t("holder")}</dt>
+                <dd className="font-heading text-[19px] font-bold text-brand-ink lg:text-[22px]">
+                  {domestic.holder}
+                </dd>
+              </div>
+              <div>
+                <dt className="text-[13px] text-brand-ink-soft">{t("idNumber")}</dt>
+                <dd className="font-heading text-[19px] font-bold text-brand-ink lg:text-[22px]">
+                  {domestic.idNumber}
+                </dd>
+              </div>
+            </dl>
+          </div>
+
+          <div className="mt-5 grid gap-5 lg:mt-6 lg:grid-cols-2 lg:items-start lg:gap-7">
+            {domestic.banks.map((bank) => (
+              <PaymentCard
+                key={bank.name}
+                title={bank.name}
+                rows={bank.accounts.map((account) => ({
+                  label: account.type[loc],
+                  value: account.number,
+                  currency: "currency" in account ? account.currency : undefined,
+                  copyable: true,
+                }))}
+              />
+            ))}
+          </div>
+
+          <h2 className="mt-14 text-[30px] font-extrabold leading-tight tracking-tight text-brand-ink lg:mt-20 lg:text-[38px]">
+            {t("internationalTitle")}
+          </h2>
+          <p className="mt-3 max-w-[560px] text-[17px] leading-relaxed text-brand-ink-soft">
+            {t("internationalNote")}
+          </p>
+
+          <div className="mt-6 grid gap-5 lg:grid-cols-2 lg:items-start lg:gap-7">
             <PaymentCard
               title={t("zelleTitle")}
               icon={<ZelleIcon />}
               rows={[
-                { label: t("zelleRecipient"), value: zelle.recipient },
-                { label: t("zelleContact"), value: zelle.emailOrPhone, copyable: true },
+                { label: t("beneficiary"), value: international.beneficiary },
+                { label: t("zelleContact"), value: international.zelle, copyable: true },
               ]}
             />
             <PaymentCard
-              title={t("bankTitle")}
+              title={t("wireTitle")}
               icon={<BankIcon />}
               rows={[
-                { label: t("bankName"), value: bankTransferRD.bankName },
-                { label: t("accountName"), value: bankTransferRD.accountName, copyable: true },
-                { label: t("accountType"), value: bankTransferRD.accountType[loc] },
-                { label: t("accountNumber"), value: bankTransferRD.accountNumber, copyable: true },
-                { label: t("rnc"), value: bankTransferRD.rnc, copyable: true },
+                { label: t("beneficiary"), value: international.beneficiary },
+                { label: t("beneficiaryAddress"), value: international.address, copyable: true },
+                { label: t("accountNumber"), value: international.accountNumber, copyable: true },
+                { label: t("achNumber"), value: international.ach, copyable: true },
+                { label: t("wireNumber"), value: international.wire, copyable: true },
+                { label: t("swiftCode"), value: international.swift, copyable: true },
               ]}
             />
           </div>

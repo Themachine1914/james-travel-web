@@ -20,17 +20,77 @@ export const business = {
     instagram: "",
     facebook: "",
   },
+  // Deposit accounts exactly as printed on James Travel's own
+  // "Números de cuentas para depósitos" flyer. The site only displays
+  // them; it never processes a payment.
   payments: {
-    zelle: {
-      recipient: "James Travel SRL", // [PLACEHOLDER]
-      emailOrPhone: "pagos@jamestravel.example.com", // [PLACEHOLDER]
+    domestic: {
+      holder: "Jaime José González",
+      idNumber: "031-0408454-0",
+      banks: [
+        {
+          name: "Banco Popular",
+          accounts: [
+            {
+              number: "738-758077",
+              currency: "RD$",
+              type: { es: "Cuenta corriente", en: "Checking account" },
+            },
+            {
+              number: "765-458088",
+              currency: "US$",
+              type: { es: "Cuenta corriente", en: "Checking account" },
+            },
+          ],
+        },
+        {
+          name: "Banreservas",
+          accounts: [
+            {
+              number: "120-124 622 9",
+              currency: "RD$",
+              type: { es: "Cuenta de ahorro", en: "Savings account" },
+            },
+            {
+              number: "252-0005286",
+              currency: "US$",
+              type: { es: "Cuenta de ahorro", en: "Savings account" },
+            },
+          ],
+        },
+        {
+          name: "Banco BHD León",
+          accounts: [
+            {
+              number: "17837690018",
+              currency: "RD$",
+              type: { es: "Cuenta de ahorro", en: "Savings account" },
+            },
+          ],
+        },
+        {
+          name: "Asociación Cibao",
+          accounts: [
+            {
+              number: "100300062768",
+              type: { es: "Cuenta James Travel", en: "James Travel account" },
+            },
+            {
+              number: "100110079554",
+              type: { es: "Cuenta de ahorros", en: "Savings account" },
+            },
+          ],
+        },
+      ],
     },
-    bankTransferRD: {
-      bankName: "Banco Popular Dominicano", // [PLACEHOLDER]
-      accountName: "James Travel SRL", // [PLACEHOLDER]
-      accountType: { es: "Cuenta de ahorros", en: "Savings account" },
-      accountNumber: "000-000000-0", // [PLACEHOLDER]
-      rnc: "000-00000-0", // [PLACEHOLDER]
+    international: {
+      beneficiary: "ETB Tours, LLC",
+      address: "950 S Pine Island Road, A-150, Plantation, FL 33324",
+      zelle: "michelle@etbtours.net",
+      accountNumber: "898029946085",
+      ach: "063100277",
+      wire: "026009593",
+      swift: "BOFAUS3N",
     },
   },
 } as const;
