@@ -45,16 +45,16 @@
     "tickerItems": [
       "Bahía de las Águilas",
       "Samaná",
-      "Puerto Plata",
+      "Turkey",
+      "Alaska",
+      "Costa Rica",
       "Madrid",
       "Paris",
-      "Rome",
-      "Marrakech",
-      "Cartagena"
+      "Rome"
     ],
     "departuresEyebrow": "Confirmed dates",
     "departuresTitle": "Upcoming departures",
-    "departuresScript": "2026",
+    "departuresScript": "2026–27",
     "viewAllPackages": "View all packages",
     "typeEyebrow": "Choose your adventure",
     "typeTitle": "Close to home or across the world",

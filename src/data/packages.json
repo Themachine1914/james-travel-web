@@ -1,5 +1,301 @@
 [
   {
+    "id": "lo-mejor-de-turquia",
+    "type": "internacional",
+    "featured": true,
+    "title": {
+      "es": "Lo mejor de Turquía",
+      "en": "The Best of Turkey"
+    },
+    "summary": {
+      "es": "Estambul, Capadocia, Pamukkale y Kusadasi, del 19 al 28 de marzo 2027.",
+      "en": "Istanbul, Cappadocia, Pamukkale and Kusadasi, March 19–28, 2027."
+    },
+    "description": {
+      "es": "Circuito de 10 días por Turquía con aéreo JFK–Estambul–JFK, tren de alta velocidad a Ankara, vuelo doméstico Esmirna/Estambul y guía de habla hispana. Hospedaje: 3 noches en Estambul, 2 en Capadocia (con cena turca), 1 en Konya, 1 en Pamukkale y 1 en Kusadasi, con cenas incluidas fuera de Estambul. Incluye visita de día completo en Estambul (Santa Sofía, Palacio de Topkapi, Bazar de las Especias y paseo en barco por el Bósforo), traslado nocturno a Taksim, almuerzo en Capadocia y entradas del recorrido de Anatolia. Precio por persona en ocupación doble: USD 2,995. Ocupación sencilla: USD 3,665.",
+      "en": "A 10-day circuit through Turkey with JFK–Istanbul–JFK airfare, a high-speed train to Ankara, a domestic Izmir/Istanbul flight and a Spanish-speaking guide. Lodging: 3 nights in Istanbul, 2 in Cappadocia (with a Turkish dinner), 1 in Konya, 1 in Pamukkale and 1 in Kusadasi, with dinners included outside Istanbul. Includes a full-day Istanbul visit (Hagia Sophia, Topkapi Palace, the Spice Bazaar and a Bosphorus boat ride), a night transfer to Taksim, lunch in Cappadocia and Anatolia tour admissions. Price per person, double occupancy: USD 2,995. Single occupancy: USD 3,665."
+    },
+    "duration": {
+      "es": "10 días / 9 noches",
+      "en": "10 days / 9 nights"
+    },
+    "dates": {
+      "es": "Del 19 al 28 de marzo 2027",
+      "en": "March 19–28, 2027"
+    },
+    "price": {
+      "adult": 2995,
+      "child": null,
+      "currency": "USD"
+    },
+    "includes": {
+      "es": [
+        "Boleto aéreo JFK–IST–JFK",
+        "Tren de alta velocidad Estambul–Ankara",
+        "Boleto aéreo doméstico Esmirna/Estambul (23 kg)",
+        "3 noches en Estambul",
+        "2 noches en Capadocia con cena turca",
+        "1 noche en Konya con cena",
+        "1 noche en Pamukkale con cena",
+        "1 noche en Kusadasi con cena",
+        "Todos los desayunos",
+        "Día completo en Estambul con almuerzo",
+        "Santa Sofía, Topkapi y Bazar de las Especias",
+        "Paseo en barco por el Bósforo",
+        "Traslado nocturno a Taksim",
+        "Almuerzo en la visita de Capadocia",
+        "Entradas del recorrido de Anatolia",
+        "Guía profesional de habla hispana",
+        "Cargos de servicio e impuestos hoteleros",
+        "Asistencia de viaje"
+      ],
+      "en": [
+        "JFK–IST–JFK airfare",
+        "Istanbul–Ankara high-speed train",
+        "Domestic Izmir/Istanbul airfare (23 kg)",
+        "3 nights in Istanbul",
+        "2 nights in Cappadocia with a Turkish dinner",
+        "1 night in Konya with dinner",
+        "1 night in Pamukkale with dinner",
+        "1 night in Kusadasi with dinner",
+        "All breakfasts",
+        "Full day in Istanbul with lunch",
+        "Hagia Sophia, Topkapi and the Spice Bazaar",
+        "Bosphorus boat ride",
+        "Night transfer to Taksim",
+        "Lunch during the Cappadocia visit",
+        "Anatolia tour admissions",
+        "Spanish-speaking professional guide",
+        "Hotel service charges and taxes",
+        "Travel assistance"
+      ]
+    },
+    "destinations": {
+      "es": [
+        "Estambul",
+        "Ankara",
+        "Capadocia",
+        "Konya",
+        "Pamukkale",
+        "Kusadasi",
+        "Esmirna"
+      ],
+      "en": [
+        "Istanbul",
+        "Ankara",
+        "Cappadocia",
+        "Konya",
+        "Pamukkale",
+        "Kusadasi",
+        "Izmir"
+      ]
+    },
+    "images": [
+      "/images/packages/lo-mejor-de-turquia/flyer.jpg"
+    ],
+    "cover": "/images/tours/lo-mejor-de-turquia.jpg",
+    "coverPosition": "50% 40%",
+    "departsOn": "2027-03-19",
+    "gallery": [
+      "/images/tours/lo-mejor-de-turquia.jpg",
+      "/images/tours/lo-mejor-de-turquia-2.jpg"
+    ]
+  },
+  {
+    "id": "crucero-seattle-alaska",
+    "type": "internacional",
+    "featured": true,
+    "title": {
+      "es": "Crucero Seattle y Alaska",
+      "en": "Seattle & Alaska Cruise"
+    },
+    "summary": {
+      "es": "Norwegian Encore desde Seattle, con hotel y aéreo desde Santiago o Nueva York. Del 7 al 16 de mayo 2027.",
+      "en": "Norwegian Encore from Seattle, with a hotel stay and airfare from Santiago or New York. May 7–16, 2027."
+    },
+    "description": {
+      "es": "Crucero de 7 días a bordo del Norwegian Encore, con salida y regreso en Seattle. Recorre Juneau, Skagway, Glacier Bay, Ketchikan (Ward Cove) y Victoria, Canadá. El paquete suma 2 noches de hotel con desayuno, visita a pie por Seattle, una cena en la ciudad, paquete de bebidas, impuestos, propinas, 2 amenidades a bordo, seguro de viaje, aéreo desde STI o NYC con equipaje de mano, traslados aeropuerto–hotel–aeropuerto y staff. Precio por persona desde Santiago: cabina interior USD 3,650 y balcón USD 4,850. Desde Nueva York: interior USD 3,415 y balcón USD 4,615. El precio de la tarjeta es cabina interior desde Santiago.",
+      "en": "A 7-day cruise aboard the Norwegian Encore, round-trip from Seattle. Ports include Juneau, Skagway, Glacier Bay, Ketchikan (Ward Cove) and Victoria, Canada. The package adds 2 hotel nights with breakfast, a Seattle walking tour, one dinner in the city, a drink package, taxes, tips, 2 onboard amenities, travel insurance, airfare from STI or NYC with a carry-on, airport–hotel–airport transfers and staff. Price per person from Santiago: interior cabin USD 3,650 and balcony USD 4,850. From New York: interior USD 3,415 and balcony USD 4,615. The card price is an interior cabin from Santiago."
+    },
+    "duration": {
+      "es": "10 días · 7 de crucero + 2 noches de hotel",
+      "en": "10 days · 7-day cruise + 2 hotel nights"
+    },
+    "dates": {
+      "es": "Del 7 al 16 de mayo 2027",
+      "en": "May 7–16, 2027"
+    },
+    "price": {
+      "adult": 3650,
+      "child": null,
+      "currency": "USD"
+    },
+    "includes": {
+      "es": [
+        "7 días de crucero en el Norwegian Encore",
+        "2 noches de hotel con desayuno",
+        "Visita a pie por Seattle",
+        "1 cena en Seattle",
+        "Paquete de bebidas",
+        "Impuestos y propinas",
+        "2 amenidades a bordo",
+        "Seguro de viaje",
+        "Boleto aéreo desde STI o NYC (equipaje de mano)",
+        "Traslados aeropuerto–hotel–aeropuerto",
+        "Staff"
+      ],
+      "en": [
+        "7-day cruise on the Norwegian Encore",
+        "2 hotel nights with breakfast",
+        "Seattle walking tour",
+        "1 dinner in Seattle",
+        "Drink package",
+        "Taxes and gratuities",
+        "2 onboard amenities",
+        "Travel insurance",
+        "Airfare from STI or NYC (carry-on)",
+        "Airport–hotel–airport transfers",
+        "Staff"
+      ]
+    },
+    "excludes": {
+      "es": [
+        "Upgrade a cabina balcón (USD 4,850 desde Santiago / USD 4,615 desde Nueva York)"
+      ],
+      "en": [
+        "Upgrade to a balcony cabin (USD 4,850 from Santiago / USD 4,615 from New York)"
+      ]
+    },
+    "destinations": {
+      "es": [
+        "Seattle",
+        "Juneau",
+        "Skagway",
+        "Glacier Bay",
+        "Ketchikan (Ward Cove)",
+        "Victoria"
+      ],
+      "en": [
+        "Seattle",
+        "Juneau",
+        "Skagway",
+        "Glacier Bay",
+        "Ketchikan (Ward Cove)",
+        "Victoria"
+      ]
+    },
+    "images": [
+      "/images/packages/crucero-seattle-alaska/flyer.jpg"
+    ],
+    "cover": "/images/tours/crucero-seattle-alaska.jpg",
+    "coverPosition": "50% 35%",
+    "departsOn": "2027-05-07",
+    "gallery": [
+      "/images/tours/crucero-seattle-alaska.jpg",
+      "/images/tours/crucero-seattle-alaska-2.jpg",
+      "/images/tours/crucero-seattle-alaska-3.jpg"
+    ]
+  },
+  {
+    "id": "costa-rica",
+    "type": "internacional",
+    "featured": true,
+    "title": {
+      "es": "Costa Rica",
+      "en": "Costa Rica"
+    },
+    "summary": {
+      "es": "Volcán Poás, La Fortuna y Sarapiquí, con aéreo, hoteles y comidas. Del 1 al 5 de mayo 2027.",
+      "en": "Poás Volcano, La Fortuna and Sarapiquí, with airfare, hotels and meals. May 1–5, 2027."
+    },
+    "description": {
+      "es": "Cinco días en Costa Rica visitando San José, el Parque Nacional Volcán Poás, el Jardín Cataratas La Paz, las aguas termales de Baldi, La Fortuna, Sarapiquí, Hacienda Pozo Azul y el Parque de Aventuras San Luis. Incluye boleto aéreo, hoteles, todas las comidas (desayuno, almuerzo y cena), traslados aeropuerto–hotel–aeropuerto, visita a Doka Coffee Plantation, el pueblo artesanal de Sarchí, seguro de viajes y guías. Precio por persona en ocupación doble: USD 1,785. Ocupación sencilla: USD 2,135.",
+      "en": "Five days in Costa Rica visiting San José, Poás Volcano National Park, La Paz Waterfall Gardens, Baldi hot springs, La Fortuna, Sarapiquí, Hacienda Pozo Azul and San Luis Adventure Park. Includes airfare, hotels, all meals (breakfast, lunch and dinner), airport–hotel–airport transfers, a visit to Doka Coffee Plantation, the artisan town of Sarchí, travel insurance and guides. Price per person, double occupancy: USD 1,785. Single occupancy: USD 2,135."
+    },
+    "duration": {
+      "es": "5 días / 4 noches",
+      "en": "5 days / 4 nights"
+    },
+    "dates": {
+      "es": "Del 1 al 5 de mayo 2027",
+      "en": "May 1–5, 2027"
+    },
+    "price": {
+      "adult": 1785,
+      "child": null,
+      "currency": "USD"
+    },
+    "includes": {
+      "es": [
+        "Boleto aéreo",
+        "Todos los hoteles",
+        "Todas las comidas (desayuno, almuerzo y cena)",
+        "Traslados aeropuerto–hotel–aeropuerto",
+        "Visita a Doka Coffee Plantation",
+        "Parque Nacional Volcán Poás",
+        "Jardín Cataratas La Paz",
+        "Pueblo artesanal de Sarchí",
+        "Aguas termales de Baldi",
+        "Pueblo La Fortuna",
+        "Hacienda Pozo Azul",
+        "Parque de Aventuras San Luis",
+        "Seguro de viajes",
+        "Guías"
+      ],
+      "en": [
+        "Airfare",
+        "All hotels",
+        "All meals (breakfast, lunch and dinner)",
+        "Airport–hotel–airport transfers",
+        "Visit to Doka Coffee Plantation",
+        "Poás Volcano National Park",
+        "La Paz Waterfall Gardens",
+        "Artisan town of Sarchí",
+        "Baldi hot springs",
+        "La Fortuna village",
+        "Hacienda Pozo Azul",
+        "San Luis Adventure Park",
+        "Travel insurance",
+        "Guides"
+      ]
+    },
+    "destinations": {
+      "es": [
+        "San José",
+        "Volcán Poás",
+        "Jardín Cataratas La Paz",
+        "Aguas Termales Baldi",
+        "La Fortuna",
+        "Sarapiquí",
+        "Hacienda Pozo Azul",
+        "Parque de Aventuras San Luis",
+        "Sarchí"
+      ],
+      "en": [
+        "San José",
+        "Poás Volcano",
+        "La Paz Waterfall Gardens",
+        "Baldi Hot Springs",
+        "La Fortuna",
+        "Sarapiquí",
+        "Hacienda Pozo Azul",
+        "San Luis Adventure Park",
+        "Sarchí"
+      ]
+    },
+    "images": [
+      "/images/packages/costa-rica/flyer.jpg"
+    ],
+    "cover": "/images/tours/costa-rica.jpg",
+    "coverPosition": "50% 45%",
+    "departsOn": "2027-05-01",
+    "gallery": [
+      "/images/tours/costa-rica.jpg",
+      "/images/tours/costa-rica-2.jpg",
+      "/images/tours/costa-rica-3.jpg"
+    ]
+  },
+  {
     "id": "tour-sur-profundo",
     "type": "nacional",
     "featured": true,

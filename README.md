@@ -119,9 +119,10 @@ todavía no tengo: correo, redes sociales, estadísticas del home y los datos de
 procesa pagos, solo muestra las instrucciones y dirige al cliente por
 WhatsApp para coordinar.
 
-**Nota sobre precios**: el catálogo sale de los flyers en
-`Tours para este año/`. Las tres salidas de 2026 (Tour Sur Profundo,
-San Juan/Elías Piña/Pedernales y Otoño Europeo) llevan fecha vigente.
+**Nota sobre precios**: el catálogo sale de los flyers de James Travel.
+Las salidas con fecha vigente son las de 2026 (Tour Sur Profundo,
+San Juan/Elías Piña/Pedernales y Otoño Europeo) y las de 2027
+(Lo mejor de Turquía, Costa Rica y Crucero Seattle y Alaska).
 El resto son tours reales de flyers anteriores: el precio es el último
 publicado y la fecha dice "Consulte próximas salidas" para no anunciar
 una salida ya pasada. No se publicaron tarifas de hotel de terceros
