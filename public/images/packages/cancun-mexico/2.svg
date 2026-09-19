@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-label="Cancún, México">
+  <defs>
+    <linearGradient id="bg17" gradientTransform="rotate(165)">
+      <stop offset="0%" stop-color="#0B5C7A"/>
+      <stop offset="55%" stop-color="#1C93C2"/>
+      <stop offset="100%" stop-color="#F4B400"/>
+    </linearGradient>
+    <radialGradient id="sun17">
+      <stop offset="0%" stop-color="#FFD166"/>
+      <stop offset="100%" stop-color="#F4B400" stop-opacity="0.85"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg17)"/>
+  <circle cx="876" cy="224.00000000000003" r="128" fill="url(#sun17)"/>
+  <path d="M0 576 Q 300 568 600 576 T 1200 576 V 800 H0 Z" fill="#0B5C7A" opacity="0.55"/>
+  <path d="M0 656 Q 300 648 600 656 T 1200 656 V 800 H0 Z" fill="#0B2436" opacity="0.35"/>
+  <rect x="0" y="682" width="1200" height="118" fill="#0B2436" opacity="0.38"/>
+  <text x="40" y="738" font-family="Georgia, 'Times New Roman', serif" font-size="40" fill="#FFFFFF" font-weight="600">Cancún, México</text>
+  <text x="40" y="774" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#FFFFFF" opacity="0.85">Foto 2</text>
+</svg>

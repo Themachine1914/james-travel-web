@@ -1,0 +1,60 @@
+/*
+ * BRAND THEME — James Travel
+ * ---------------------------------------------------------------
+ * This is the ONLY file you should need to edit if the palette ever
+ * changes. Nothing in the components references hex codes directly —
+ * they all read these CSS variables / Tailwind tokens.
+ *
+ * PALETTE SOURCE: sampled directly from the real James Travel logo
+ * (Logo.jpg) and the "Tour Sur Profundo" flyer graphics — not a
+ * placeholder. Navy blue + golden yellow, matching the wordmark
+ * ("James" in gold, "Travel" in navy) and the diagonal wave motif
+ * used across their tour flyers.
+ * ---------------------------------------------------------------
+ */
+
+:root {
+  --brand-ocean-dark: #14315a;
+  --brand-ocean: #254d8b;
+  --brand-ocean-light: #5098e0;
+  --brand-gold: #e8c84c;
+  --brand-gold-light: #f0db8a;
+  --brand-sand: #fbf6ec;
+  --brand-ink: #14233a;
+  --brand-gold-deep: #a07d00; /* gold dark enough for small text on sand/white */
+  --brand-ink-soft: #4b5b74;
+
+  /* Semantic aliases used by components — keep these names stable */
+  --color-brand-primary: var(--brand-ocean);
+  --color-brand-primary-dark: var(--brand-ocean-dark);
+  --color-brand-primary-light: var(--brand-ocean-light);
+  --color-brand-accent: var(--brand-gold);
+  --color-brand-accent-light: var(--brand-gold-light);
+  --color-brand-surface: var(--brand-sand);
+  --color-brand-ink: var(--brand-ink);
+  --color-brand-gold-deep: var(--brand-gold-deep);
+  --color-brand-ink-soft: var(--brand-ink-soft);
+
+  --gradient-brand: linear-gradient(
+    135deg,
+    var(--brand-ocean-dark) 0%,
+    var(--brand-ocean) 45%,
+    var(--brand-gold) 100%
+  );
+}
+
+@theme inline {
+  --color-brand-primary: var(--color-brand-primary);
+  --color-brand-primary-dark: var(--color-brand-primary-dark);
+  --color-brand-primary-light: var(--color-brand-primary-light);
+  --color-brand-accent: var(--color-brand-accent);
+  --color-brand-accent-light: var(--color-brand-accent-light);
+  --color-brand-surface: var(--color-brand-surface);
+  --color-brand-ink: var(--color-brand-ink);
+  --color-brand-gold-deep: var(--color-brand-gold-deep);
+  --color-brand-ink-soft: var(--color-brand-ink-soft);
+
+  /* Placeholder brand typography — replace in src/lib/fonts.ts */
+  --font-heading: var(--font-heading);
+  --font-body: var(--font-body);
+}

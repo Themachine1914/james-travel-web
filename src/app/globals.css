@@ -1,0 +1,25 @@
+@import "tailwindcss";
+@import "../styles/brand-theme.css";
+
+body {
+  background: var(--color-brand-surface);
+  color: var(--color-brand-ink);
+  font-family: var(--font-body), Arial, Helvetica, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--font-heading), system-ui, sans-serif;
+}
+
+/* Hand-lettered accent word, like the logo tagline and the flyers. */
+.font-script {
+  font-family: var(--font-script), cursive;
+  font-weight: 400;
+}
+
+.brand-gradient {
+  background: var(--gradient-brand);
+}

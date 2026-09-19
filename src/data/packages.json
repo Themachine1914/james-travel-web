@@ -1,0 +1,1089 @@
+[
+  {
+    "id": "tour-sur-profundo",
+    "type": "nacional",
+    "featured": true,
+    "title": {
+      "es": "Tour Sur Profundo",
+      "en": "Deep South Tour"
+    },
+    "summary": {
+      "es": "Dunas, lago Enriquillo y Bahía de las Águilas, del 7 al 9 de noviembre 2026.",
+      "en": "Dunes, Lake Enriquillo and Bahía de las Águilas, November 7–9, 2026."
+    },
+    "description": {
+      "es": "Recorrido por el suroeste dominicano: Las Dunas, Salinas, Las Marías, Neiba, Lago Enriquillo, Las Barias-Jimaní, Barahona, San Rafael, Los Patos, Pedernales, Bahía de las Águilas, Villa Mirian y el Parque Eólico Los Cocos.",
+      "en": "A trip through the Dominican southwest: Las Dunas, Salinas, Las Marías, Neiba, Lake Enriquillo, Las Barias-Jimaní, Barahona, San Rafael, Los Patos, Pedernales, Bahía de las Águilas, Villa Mirian and Los Cocos Wind Farm."
+    },
+    "duration": {
+      "es": "3 días / 2 noches",
+      "en": "3 days / 2 nights"
+    },
+    "dates": {
+      "es": "Del 07 al 09 de noviembre 2026",
+      "en": "November 7–9, 2026"
+    },
+    "price": {
+      "adult": 15000,
+      "child": 10000,
+      "currency": "DOP"
+    },
+    "includes": {
+      "es": [
+        "Transporte",
+        "Refrigerios",
+        "Desayunos",
+        "Almuerzos",
+        "Cenas",
+        "Alojamiento",
+        "Lancha",
+        "Impuestos de parques",
+        "Staff"
+      ],
+      "en": [
+        "Transportation",
+        "Snacks",
+        "Breakfast",
+        "Lunch",
+        "Dinner",
+        "Lodging",
+        "Boat ride",
+        "Park fees",
+        "Staff"
+      ]
+    },
+    "destinations": {
+      "es": [
+        "Las Dunas",
+        "Salinas",
+        "Las Marías",
+        "Neiba",
+        "Lago Enriquillo",
+        "Las Barias-Jimaní",
+        "Barahona",
+        "San Rafael",
+        "Los Patos",
+        "Pedernales",
+        "Bahía de las Águilas",
+        "Villa Mirian",
+        "Parque Eólico Los Cocos"
+      ],
+      "en": [
+        "Las Dunas",
+        "Salinas",
+        "Las Marías",
+        "Neiba",
+        "Lake Enriquillo",
+        "Las Barias-Jimaní",
+        "Barahona",
+        "San Rafael",
+        "Los Patos",
+        "Pedernales",
+        "Bahía de las Águilas",
+        "Villa Mirian",
+        "Los Cocos Wind Farm"
+      ]
+    },
+    "images": [
+      "/images/packages/tour-sur-profundo/flyer.jpg"
+    ],
+    "cover": "/images/tours/tour-sur-profundo.jpg",
+    "departsOn": "2026-11-07",
+    "gallery": [
+      "/images/tours/tour-sur-profundo.jpg",
+      "/images/tours/tour-sur-profundo-2.jpg",
+      "/images/tours/san-juan-elias-pina-pedernales.jpg"
+    ]
+  },
+  {
+    "id": "san-juan-elias-pina-pedernales",
+    "type": "nacional",
+    "featured": true,
+    "title": {
+      "es": "San Juan, Elías Piña y Glamping en Pedernales",
+      "en": "San Juan, Elías Piña & Pedernales Glamping"
+    },
+    "summary": {
+      "es": "Provincias del suroeste y una noche de glamping en Cabo Rojo, del 18 al 20 de diciembre 2026.",
+      "en": "Southwestern provinces and a night of glamping in Cabo Rojo, December 18–20, 2026."
+    },
+    "description": {
+      "es": "Tour para conocer las provincias de Elías Piña, San Juan, Peravia, Azua, Barahona y Pedernales, con una noche de hotel en Barahona, una noche de glamping en Cabo Rojo y visita a Bahía de las Águilas.",
+      "en": "A tour of the provinces of Elías Piña, San Juan, Peravia, Azua, Barahona and Pedernales, with one night at a hotel in Barahona, one night of glamping in Cabo Rojo and a visit to Bahía de las Águilas."
+    },
+    "duration": {
+      "es": "3 días / 2 noches",
+      "en": "3 days / 2 nights"
+    },
+    "dates": {
+      "es": "Del 18 al 20 de diciembre 2026",
+      "en": "December 18–20, 2026"
+    },
+    "price": {
+      "adult": 17500,
+      "child": null,
+      "currency": "DOP"
+    },
+    "includes": {
+      "es": [
+        "Transporte",
+        "Refrigerio",
+        "3 desayunos",
+        "3 almuerzos",
+        "2 cenas",
+        "Lancha",
+        "Impuestos de parque",
+        "Staff"
+      ],
+      "en": [
+        "Transportation",
+        "Snack",
+        "3 breakfasts",
+        "3 lunches",
+        "2 dinners",
+        "Boat ride",
+        "Park fees",
+        "Staff"
+      ]
+    },
+    "destinations": {
+      "es": [
+        "1 noche de hotel en Barahona",
+        "1 noche de glamping en Cabo Rojo",
+        "Elías Piña",
+        "San Juan",
+        "Peravia",
+        "Azua",
+        "Barahona",
+        "Pedernales",
+        "Balnearios Los Patos y Arroyo Salado",
+        "Bahía de las Águilas"
+      ],
+      "en": [
+        "1 night at a hotel in Barahona",
+        "1 night of glamping in Cabo Rojo",
+        "Elías Piña",
+        "San Juan",
+        "Peravia",
+        "Azua",
+        "Barahona",
+        "Pedernales",
+        "Los Patos and Arroyo Salado swimming holes",
+        "Bahía de las Águilas"
+      ]
+    },
+    "images": [
+      "/images/packages/san-juan-elias-pina-pedernales/flyer.jpg"
+    ],
+    "cover": "/images/tours/san-juan-elias-pina-pedernales.jpg",
+    "departsOn": "2026-12-18",
+    "coverPosition": "40% 50%"
+  },
+  {
+    "id": "atractivos-samana",
+    "type": "nacional",
+    "featured": false,
+    "title": {
+      "es": "Atractivos de Samaná",
+      "en": "Samaná Highlights"
+    },
+    "summary": {
+      "es": "Cayo Levantado, Salto El Limón a caballo y las playas de Samaná y Las Terrenas.",
+      "en": "Cayo Levantado, El Limón waterfall by horseback, and the beaches of Samaná and Las Terrenas."
+    },
+    "description": {
+      "es": "Recorrido por los atractivos de Samaná: Cayo Levantado, La Hondonada, Playa Rincón, Arroyo Frío, Salto El Limón, Playa Morón y Las Terrenas. Niños de 4 a 10 años: RD$6,000. El precio es el de la última salida publicada (16 y 17 de marzo 2024). Confirma vigencia y próximas fechas por WhatsApp.",
+      "en": "A tour of Samaná highlights: Cayo Levantado, La Hondonada, Playa Rincón, Arroyo Frío, El Limón waterfall, Playa Morón and Las Terrenas. Children ages 4–10: RD$6,000. The price is from the last published departure (March 16–17, 2024). Confirm availability and upcoming dates on WhatsApp."
+    },
+    "duration": {
+      "es": "2 días / 1 noche",
+      "en": "2 days / 1 night"
+    },
+    "dates": {
+      "es": "Consulte próximas salidas",
+      "en": "Ask about upcoming dates"
+    },
+    "price": {
+      "adult": 10000,
+      "child": 6000,
+      "currency": "DOP"
+    },
+    "includes": {
+      "es": [
+        "Transporte",
+        "Refrigerios",
+        "Desayuno, almuerzo y cena",
+        "Alojamiento",
+        "Caballo al Salto El Limón",
+        "Bebida no alcohólica",
+        "Impuesto de parque",
+        "Staff"
+      ],
+      "en": [
+        "Transportation",
+        "Snacks",
+        "Breakfast, lunch and dinner",
+        "Lodging",
+        "Horseback ride to El Limón waterfall",
+        "Non-alcoholic drink",
+        "Park fee",
+        "Staff"
+      ]
+    },
+    "destinations": {
+      "es": [
+        "Cayo Levantado",
+        "La Hondonada",
+        "Playa Rincón",
+        "Arroyo Frío",
+        "Salto El Limón",
+        "Playa Morón",
+        "Las Terrenas"
+      ],
+      "en": [
+        "Cayo Levantado",
+        "La Hondonada",
+        "Playa Rincón",
+        "Arroyo Frío",
+        "El Limón Waterfall",
+        "Playa Morón",
+        "Las Terrenas"
+      ]
+    },
+    "images": [
+      "/images/packages/atractivos-samana/flyer.jpg"
+    ],
+    "cover": "/images/tours/atractivos-samana.jpg"
+  },
+  {
+    "id": "montana-redonda",
+    "type": "nacional",
+    "featured": false,
+    "title": {
+      "es": "Montaña Redonda",
+      "en": "Montaña Redonda"
+    },
+    "summary": {
+      "es": "El Seibo, safari en jeep a Montaña Redonda y catamarán a la piscina natural Media Luna.",
+      "en": "El Seibo, a jeep safari to Montaña Redonda and a catamaran to Media Luna natural pool."
+    },
+    "description": {
+      "es": "Incluye visita de El Seibo, Miches, Sabana de la Mar y Hato Mayor, jeep safari a Montaña Redonda, catamarán a la Piscina Natural Media Luna y alojamiento en Altos Caño Hondo. El precio es el de la última salida publicada (septiembre y octubre 2021, RD$8,000 por persona). Confirma vigencia por WhatsApp.",
+      "en": "Includes visits to El Seibo, Miches, Sabana de la Mar and Hato Mayor, a jeep safari to Montaña Redonda, a catamaran to Media Luna Natural Pool and lodging at Altos Caño Hondo. The price is from the last published departure (September and October 2021, RD$8,000 per person). Confirm availability on WhatsApp."
+    },
+    "duration": {
+      "es": "2 días / 1 noche",
+      "en": "2 days / 1 night"
+    },
+    "dates": {
+      "es": "Consulte próximas salidas",
+      "en": "Ask about upcoming dates"
+    },
+    "price": {
+      "adult": 8000,
+      "child": null,
+      "currency": "DOP"
+    },
+    "includes": {
+      "es": [
+        "Transporte",
+        "Visita El Seibo, Miches, Sabana de la Mar y Hato Mayor",
+        "Jeep safari a Montaña Redonda",
+        "Catamarán a la Piscina Natural Media Luna",
+        "Alojamiento en Altos Caño Hondo",
+        "2 desayunos",
+        "2 almuerzos",
+        "1 cena",
+        "Refrigerio",
+        "Staff"
+      ],
+      "en": [
+        "Transportation",
+        "Visits to El Seibo, Miches, Sabana de la Mar and Hato Mayor",
+        "Jeep safari to Montaña Redonda",
+        "Catamaran to Media Luna Natural Pool",
+        "Lodging at Altos Caño Hondo",
+        "2 breakfasts",
+        "2 lunches",
+        "1 dinner",
+        "Snack",
+        "Staff"
+      ]
+    },
+    "destinations": {
+      "es": [
+        "El Seibo",
+        "Miches",
+        "Sabana de la Mar",
+        "Hato Mayor",
+        "Montaña Redonda",
+        "Piscina Natural Media Luna",
+        "Altos Caño Hondo"
+      ],
+      "en": [
+        "El Seibo",
+        "Miches",
+        "Sabana de la Mar",
+        "Hato Mayor",
+        "Montaña Redonda",
+        "Media Luna Natural Pool",
+        "Altos Caño Hondo"
+      ]
+    },
+    "images": [
+      "/images/packages/montana-redonda/flyer.jpg"
+    ],
+    "cover": "/images/tours/montana-redonda.jpg",
+    "coverPosition": "50% 58%"
+  },
+  {
+    "id": "buggies-puerto-plata",
+    "type": "nacional",
+    "featured": false,
+    "title": {
+      "es": "Aventura en Buggies, Puerto Plata",
+      "en": "Buggy Adventure, Puerto Plata"
+    },
+    "summary": {
+      "es": "Un día en buggy Polaris por los charcos de Damajagua y el city tour de Puerto Plata.",
+      "en": "A day in a Polaris buggy through Damajagua pools and Puerto Plata's city tour."
+    },
+    "description": {
+      "es": "Aventura de un día en Puerto Plata: charcos de Damajagua, recorrido en buggy Polaris y city tour, con desayuno, almuerzo, refrigerio, equipo de protección y guías. El precio es el de la última salida publicada (10 de octubre 2021, RD$3,900 por persona). Confirma vigencia por WhatsApp.",
+      "en": "A one-day adventure in Puerto Plata: Damajagua pools, a Polaris buggy ride and a city tour, with breakfast, lunch, a snack, protective gear and guides. The price is from the last published departure (October 10, 2021, RD$3,900 per person). Confirm availability on WhatsApp."
+    },
+    "duration": {
+      "es": "1 día",
+      "en": "1 day"
+    },
+    "dates": {
+      "es": "Consulte próximas salidas",
+      "en": "Ask about upcoming dates"
+    },
+    "price": {
+      "adult": 3900,
+      "child": null,
+      "currency": "DOP"
+    },
+    "includes": {
+      "es": [
+        "Transporte",
+        "Desayuno",
+        "Charcos de Damajagua",
+        "Recorrido en buggy Polaris",
+        "Almuerzo",
+        "Refrigerio",
+        "City tour de Puerto Plata",
+        "Equipo de protección",
+        "Guías",
+        "Staff"
+      ],
+      "en": [
+        "Transportation",
+        "Breakfast",
+        "Damajagua pools",
+        "Polaris buggy ride",
+        "Lunch",
+        "Snack",
+        "Puerto Plata city tour",
+        "Protective gear",
+        "Guides",
+        "Staff"
+      ]
+    },
+    "destinations": {
+      "es": [
+        "Puerto Plata",
+        "Charcos de Damajagua"
+      ],
+      "en": [
+        "Puerto Plata",
+        "Damajagua Pools"
+      ]
+    },
+    "images": [
+      "/images/packages/buggies-puerto-plata/flyer.jpg"
+    ],
+    "cover": "/images/tours/buggies-puerto-plata.jpg"
+  },
+  {
+    "id": "ballenas-jorobadas",
+    "type": "nacional",
+    "featured": false,
+    "title": {
+      "es": "Tours Ballenas Jorobadas",
+      "en": "Humpback Whale Tours"
+    },
+    "summary": {
+      "es": "Observación de ballenas y visita a Cayo Levantado, con salidas en febrero.",
+      "en": "Whale watching and a visit to Cayo Levantado, with February departures."
+    },
+    "description": {
+      "es": "Salida de un día para observar ballenas jorobadas y visitar Cayo Levantado, en catamarán, con desayuno, almuerzo, refrigerios y bebidas (agua y refresco). Niños de 4 a 10 años pagan RD$3,400. Confirma la próxima temporada por WhatsApp.",
+      "en": "A day trip to watch humpback whales and visit Cayo Levantado by catamaran, with breakfast, lunch, snacks and drinks (water and soda). Children ages 4–10 pay RD$3,400. Confirm the next season on WhatsApp."
+    },
+    "duration": {
+      "es": "1 día",
+      "en": "1 day"
+    },
+    "dates": {
+      "es": "Consulte próximas salidas",
+      "en": "Ask about upcoming dates"
+    },
+    "price": {
+      "adult": 4400,
+      "child": 3400,
+      "currency": "DOP"
+    },
+    "includes": {
+      "es": [
+        "Transporte",
+        "Refrigerios",
+        "Desayuno",
+        "Catamarán",
+        "Observación de ballenas",
+        "Guía",
+        "Impuesto de parque",
+        "Almuerzo",
+        "Visita a Cayo Levantado",
+        "Bebidas (agua y refresco)",
+        "Staff"
+      ],
+      "en": [
+        "Transportation",
+        "Snacks",
+        "Breakfast",
+        "Catamaran",
+        "Whale watching",
+        "Guide",
+        "Park fee",
+        "Lunch",
+        "Visit to Cayo Levantado",
+        "Drinks (water and soda)",
+        "Staff"
+      ]
+    },
+    "destinations": {
+      "es": [
+        "Samaná",
+        "Cayo Levantado",
+        "Bahía de Samaná"
+      ],
+      "en": [
+        "Samaná",
+        "Cayo Levantado",
+        "Samaná Bay"
+      ]
+    },
+    "images": [
+      "/images/packages/ballenas-jorobadas/flyer.jpg"
+    ],
+    "cover": "/images/tours/ballenas-jorobadas.jpg"
+  },
+  {
+    "id": "otono-europeo",
+    "type": "internacional",
+    "featured": true,
+    "title": {
+      "es": "Otoño Europeo",
+      "en": "European Autumn"
+    },
+    "summary": {
+      "es": "Madrid, Barcelona, Venecia, Florencia, Roma y París, con aéreo desde Santo Domingo.",
+      "en": "Madrid, Barcelona, Venice, Florence, Rome and Paris, with airfare from Santo Domingo."
+    },
+    "description": {
+      "es": "15 días y 13 noches, del 23 de octubre al 6 de noviembre 2026. Aéreo incluido desde Santo Domingo con Iberia. Precio por persona en habitación doble: USD 3,890. Incluye visitas panorámicas, traslado en barco a Tronchetto y Plaza de San Marco, la fábrica de cristal de Murano y traslados en Florencia, París, Madrid y Roma.",
+      "en": "15 days and 13 nights, October 23 to November 6, 2026. Round-trip airfare from Santo Domingo on Iberia is included. Price per person, double occupancy: USD 3,890. Includes panoramic sightseeing, a boat transfer to Tronchetto and Piazza San Marco, the Murano glass factory, and transfers in Florence, Paris, Madrid and Rome."
+    },
+    "duration": {
+      "es": "15 días / 13 noches",
+      "en": "15 days / 13 nights"
+    },
+    "dates": {
+      "es": "Del 23 de octubre al 06 de noviembre 2026",
+      "en": "October 23 – November 6, 2026"
+    },
+    "price": {
+      "adult": 3890,
+      "child": null,
+      "currency": "USD"
+    },
+    "includes": {
+      "es": [
+        "Aéreo incluido desde Santo Domingo (Iberia)",
+        "Visita panorámica en Madrid, Barcelona, Venecia, Florencia, Roma y París",
+        "Traslado en barco a Tronchetto y Plaza de San Marco",
+        "Traslados al Balcón de Miguel Ángel en Florencia y al barrio de Montmartre en París",
+        "Entrada a la fábrica de cristal de Murano en Venecia",
+        "Seguro de equipaje",
+        "Traslados nocturnos: Plaza Mayor en Madrid y Trastevere en Roma"
+      ],
+      "en": [
+        "Round-trip airfare from Santo Domingo (Iberia)",
+        "Panoramic sightseeing in Madrid, Barcelona, Venice, Florence, Rome and Paris",
+        "Boat transfer to Tronchetto and Piazza San Marco",
+        "Transfers to Michelangelo's terrace in Florence and the Montmartre district in Paris",
+        "Entrance to the Murano glass factory in Venice",
+        "Luggage insurance",
+        "Night transfers: Plaza Mayor in Madrid and Trastevere in Rome"
+      ]
+    },
+    "destinations": {
+      "es": [
+        "Madrid",
+        "Barcelona",
+        "Venecia",
+        "Florencia",
+        "Roma",
+        "París"
+      ],
+      "en": [
+        "Madrid",
+        "Barcelona",
+        "Venice",
+        "Florence",
+        "Rome",
+        "Paris"
+      ]
+    },
+    "images": [
+      "/images/packages/otono-europeo/flyer.jpg"
+    ],
+    "cover": "/images/tours/otono-europeo.jpg",
+    "departsOn": "2026-10-23",
+    "coverPosition": "50% 75%"
+  },
+  {
+    "id": "primavera-europea",
+    "type": "internacional",
+    "featured": false,
+    "title": {
+      "es": "Primavera Europea",
+      "en": "European Spring"
+    },
+    "summary": {
+      "es": "España, Francia, Mónaco, Italia, Vaticano y Suiza, con 2 noches en Barcelona.",
+      "en": "Spain, France, Monaco, Italy, Vatican City and Switzerland, with 2 nights in Barcelona."
+    },
+    "description": {
+      "es": "Circuito del 8 al 23 de mayo, con boleto aéreo, traslado, desayuno, hospedaje y recorrido en autocar. Países: España, Francia, Mónaco, Italia, Vaticano y Suiza. Visitando Madrid, Toledo, Zaragoza, Barcelona (2 noches), Niza, Mónaco, Venecia, Florencia, Roma, Vaticano, Turín, Pisa, Ginebra y París. El precio publicado fue USD 3,890 por persona. Confirma próximas fechas por WhatsApp.",
+      "en": "A circuit from May 8 to 23, with airfare, transfers, breakfast, lodging and a coach tour. Countries: Spain, France, Monaco, Italy, Vatican City and Switzerland. Stops include Madrid, Toledo, Zaragoza, Barcelona (2 nights), Nice, Monaco, Venice, Florence, Rome, Vatican City, Turin, Pisa, Geneva and Paris. The published price was USD 3,890 per person. Confirm upcoming dates on WhatsApp."
+    },
+    "duration": {
+      "es": "16 días / 15 noches",
+      "en": "16 days / 15 nights"
+    },
+    "dates": {
+      "es": "Consulte próximas salidas",
+      "en": "Ask about upcoming dates"
+    },
+    "price": {
+      "adult": 3890,
+      "child": null,
+      "currency": "USD"
+    },
+    "includes": {
+      "es": [
+        "Boleto aéreo",
+        "Traslado",
+        "Desayuno",
+        "Hospedaje",
+        "Recorrido en autocar",
+        "2 noches en Barcelona"
+      ],
+      "en": [
+        "Airfare",
+        "Transfers",
+        "Breakfast",
+        "Lodging",
+        "Coach tour",
+        "2 nights in Barcelona"
+      ]
+    },
+    "destinations": {
+      "es": [
+        "Madrid",
+        "Toledo",
+        "Zaragoza",
+        "Barcelona",
+        "Niza",
+        "Mónaco",
+        "Venecia",
+        "Florencia",
+        "Roma",
+        "Vaticano",
+        "Turín",
+        "Pisa",
+        "Ginebra",
+        "París"
+      ],
+      "en": [
+        "Madrid",
+        "Toledo",
+        "Zaragoza",
+        "Barcelona",
+        "Nice",
+        "Monaco",
+        "Venice",
+        "Florence",
+        "Rome",
+        "Vatican City",
+        "Turin",
+        "Pisa",
+        "Geneva",
+        "Paris"
+      ]
+    },
+    "images": [
+      "/images/packages/primavera-europea/flyer.jpg"
+    ],
+    "cover": "/images/tours/primavera-europea.jpg"
+  },
+  {
+    "id": "europa-del-este",
+    "type": "internacional",
+    "featured": false,
+    "title": {
+      "es": "Europa del Este",
+      "en": "Eastern Europe"
+    },
+    "summary": {
+      "es": "Nueve países de Europa, con boleto aéreo incluido.",
+      "en": "Nine European countries, with airfare included."
+    },
+    "description": {
+      "es": "Salida publicada del 8 al 24 de septiembre, precio USD 3,490 por persona, con boleto aéreo incluido. Visitando Francia, Bélgica, Holanda, Alemania, República Checa, Hungría, Austria, Suiza y Eslovaquia. Confirma próximas fechas y el detalle del itinerario por WhatsApp.",
+      "en": "Published departure from September 8 to 24, USD 3,490 per person, airfare included. Visiting France, Belgium, the Netherlands, Germany, the Czech Republic, Hungary, Austria, Switzerland and Slovakia. Confirm upcoming dates and the full itinerary on WhatsApp."
+    },
+    "duration": {
+      "es": "17 días / 16 noches",
+      "en": "17 days / 16 nights"
+    },
+    "dates": {
+      "es": "Consulte próximas salidas",
+      "en": "Ask about upcoming dates"
+    },
+    "price": {
+      "adult": 3490,
+      "child": null,
+      "currency": "USD"
+    },
+    "includes": {
+      "es": [
+        "Boleto aéreo incluido"
+      ],
+      "en": [
+        "Airfare included"
+      ]
+    },
+    "destinations": {
+      "es": [
+        "Francia",
+        "Bélgica",
+        "Holanda",
+        "Alemania",
+        "República Checa",
+        "Hungría",
+        "Austria",
+        "Suiza",
+        "Eslovaquia"
+      ],
+      "en": [
+        "France",
+        "Belgium",
+        "Netherlands",
+        "Germany",
+        "Czech Republic",
+        "Hungary",
+        "Austria",
+        "Switzerland",
+        "Slovakia"
+      ]
+    },
+    "images": [
+      "/images/packages/europa-del-este/flyer.jpg"
+    ],
+    "cover": "/images/tours/europa-del-este.jpg"
+  },
+  {
+    "id": "verano-europeo",
+    "type": "internacional",
+    "featured": false,
+    "title": {
+      "es": "Verano Europeo",
+      "en": "European Summer"
+    },
+    "summary": {
+      "es": "15 días y 13 noches, con aéreo incluido desde Santo Domingo.",
+      "en": "15 days and 13 nights, with airfare included from Santo Domingo."
+    },
+    "description": {
+      "es": "Salida publicada del 21 de junio al 5 de julio, 15 días y 13 noches, aéreo incluido desde Santo Domingo. Precio publicado: USD 3,450 por persona en habitación doble. Recorre Roma y París. Confirma el itinerario completo y próximas fechas por WhatsApp.",
+      "en": "Published departure from June 21 to July 5, 15 days and 13 nights, airfare included from Santo Domingo. Published price: USD 3,450 per person, double occupancy. Visits Rome and Paris. Confirm the full itinerary and upcoming dates on WhatsApp."
+    },
+    "duration": {
+      "es": "15 días / 13 noches",
+      "en": "15 days / 13 nights"
+    },
+    "dates": {
+      "es": "Consulte próximas salidas",
+      "en": "Ask about upcoming dates"
+    },
+    "price": {
+      "adult": 3450,
+      "child": null,
+      "currency": "USD"
+    },
+    "includes": {
+      "es": [
+        "Aéreo incluido desde Santo Domingo"
+      ],
+      "en": [
+        "Airfare included from Santo Domingo"
+      ]
+    },
+    "destinations": {
+      "es": [
+        "Roma",
+        "París"
+      ],
+      "en": [
+        "Rome",
+        "Paris"
+      ]
+    },
+    "images": [
+      "/images/packages/verano-europeo/flyer.jpg"
+    ],
+    "cover": "/images/tours/verano-europeo.jpg",
+    "coverPosition": "50% 30%"
+  },
+  {
+    "id": "colombia-luxury",
+    "type": "internacional",
+    "featured": false,
+    "title": {
+      "es": "Tour Colombia Luxury",
+      "en": "Colombia Luxury Tour"
+    },
+    "summary": {
+      "es": "Medellín, Cartagena y Bogotá, con aéreos, hoteles de primera y city tours.",
+      "en": "Medellín, Cartagena and Bogotá, with flights, first-class hotels and city tours."
+    },
+    "description": {
+      "es": "Medellín, Cartagena y Bogotá con hospedaje de primera: NH Collection Royal Medellín, Estelar Cartagena de Indias y Four Points by Sheraton Bogotá. Incluye aéreos nacionales e internacionales, desayunos, city tours, paseo en el Yate Majestic en Guatapé, volcán de lodo El Totumo, crucero por la bahía de Cartagena, Catedral de Sal de Zipaquirá y hacienda cafetera de Coloma. Última salida publicada: 14 al 22 de mayo 2022, USD 2,350. Confirma próximas fechas por WhatsApp.",
+      "en": "Medellín, Cartagena and Bogotá with first-class lodging: NH Collection Royal Medellín, Estelar Cartagena de Indias and Four Points by Sheraton Bogotá. Includes domestic and international flights, breakfast, city tours, a ride on the Majestic yacht at Guatapé, El Totumo mud volcano, a Cartagena bay cruise, Zipaquirá Salt Cathedral and the Coloma coffee estate. Last published departure: May 14–22, 2022, USD 2,350. Confirm upcoming dates on WhatsApp."
+    },
+    "duration": {
+      "es": "9 días / 8 noches",
+      "en": "9 days / 8 nights"
+    },
+    "dates": {
+      "es": "Consulte próximas salidas",
+      "en": "Ask about upcoming dates"
+    },
+    "price": {
+      "adult": 2350,
+      "child": null,
+      "currency": "USD"
+    },
+    "includes": {
+      "es": [
+        "Aéreos nacionales e internacionales",
+        "Alojamiento en los hoteles detallados",
+        "Todos los desayunos",
+        "City tours en Medellín, Cartagena y Bogotá",
+        "Paseo con almuerzo en el Yate Majestic, Embalse de Guatapé",
+        "Visita al volcán de lodo El Totumo con almuerzo",
+        "Crucero por la bahía de Cartagena",
+        "Catedral de Sal de Zipaquirá, cata de cerveza y almuerzo",
+        "Cena en Andrés Carne de Res",
+        "Visita a la hacienda cafetera de Coloma con almuerzo",
+        "Seguro médico de viajes"
+      ],
+      "en": [
+        "Domestic and international flights",
+        "Lodging at the listed hotels",
+        "All breakfasts",
+        "City tours in Medellín, Cartagena and Bogotá",
+        "Lunch cruise on the Majestic yacht, Guatapé Reservoir",
+        "Visit to El Totumo mud volcano with lunch",
+        "Cartagena bay cruise",
+        "Zipaquirá Salt Cathedral, beer tasting and lunch",
+        "Dinner at Andrés Carne de Res",
+        "Visit to the Coloma coffee estate with lunch",
+        "Travel medical insurance"
+      ]
+    },
+    "destinations": {
+      "es": [
+        "Medellín",
+        "Guatapé",
+        "Cartagena",
+        "Bogotá",
+        "Zipaquirá"
+      ],
+      "en": [
+        "Medellín",
+        "Guatapé",
+        "Cartagena",
+        "Bogotá",
+        "Zipaquirá"
+      ]
+    },
+    "images": [
+      "/images/packages/colombia-luxury/flyer.jpg"
+    ],
+    "cover": "/images/tours/colombia-luxury.jpg"
+  },
+  {
+    "id": "maravillas-marruecos",
+    "type": "internacional",
+    "featured": false,
+    "title": {
+      "es": "Maravillas de Marruecos Luxury",
+      "en": "Wonders of Morocco Luxury"
+    },
+    "summary": {
+      "es": "Casablanca, Rabat, Tánger, Meknes, Fez y Marrakech, con aéreo desde JFK.",
+      "en": "Casablanca, Rabat, Tangier, Meknes, Fez and Marrakech, with airfare from JFK."
+    },
+    "description": {
+      "es": "Circuito con boleto aéreo desde JFK, traslados, hotel de categoría superior, desayunos, 7 cenas y 5 almuerzos (sin bebidas), autocar y guías de habla hispana, más guía local en Casablanca, Rabat, Tánger, Meknes, Fez y Marrakech. Incluye seguro de viajes. No se requiere visa para Marruecos. Última salida publicada: 8 al 16 de abril 2022, USD 2,700 por persona. Confirma próximas fechas por WhatsApp.",
+      "en": "A circuit with airfare from JFK, transfers, a superior-category hotel, breakfasts, 7 dinners and 5 lunches (drinks not included), a coach and Spanish-speaking guides, plus a local guide in Casablanca, Rabat, Tangier, Meknes, Fez and Marrakech. Travel insurance is included. A visa is not required for Morocco. Last published departure: April 8–16, 2022, USD 2,700 per person. Confirm upcoming dates on WhatsApp."
+    },
+    "duration": {
+      "es": "9 días / 8 noches",
+      "en": "9 days / 8 nights"
+    },
+    "dates": {
+      "es": "Consulte próximas salidas",
+      "en": "Ask about upcoming dates"
+    },
+    "price": {
+      "adult": 2700,
+      "child": null,
+      "currency": "USD"
+    },
+    "includes": {
+      "es": [
+        "Boleto aéreo con salida desde JFK",
+        "Traslados aeropuerto-hotel-aeropuerto",
+        "Hotel categoría superior",
+        "Desayunos, 7 cenas y 5 almuerzos, sin bebidas",
+        "Circuito en autocar",
+        "Guías de habla hispana",
+        "Guía local en Casablanca, Rabat, Tánger, Meknes, Fez y Marrakech",
+        "Seguro de viajes"
+      ],
+      "en": [
+        "Airfare departing from JFK",
+        "Airport-hotel-airport transfers",
+        "Superior-category hotel",
+        "Breakfasts, 7 dinners and 5 lunches, drinks not included",
+        "Coach circuit",
+        "Spanish-speaking guides",
+        "Local guide in Casablanca, Rabat, Tangier, Meknes, Fez and Marrakech",
+        "Travel insurance"
+      ]
+    },
+    "excludes": {
+      "es": [
+        "Bebidas"
+      ],
+      "en": [
+        "Drinks"
+      ]
+    },
+    "destinations": {
+      "es": [
+        "Casablanca",
+        "Rabat",
+        "Tánger",
+        "Meknes",
+        "Fez",
+        "Marrakech"
+      ],
+      "en": [
+        "Casablanca",
+        "Rabat",
+        "Tangier",
+        "Meknes",
+        "Fez",
+        "Marrakech"
+      ]
+    },
+    "images": [
+      "/images/packages/maravillas-marruecos/flyer.jpg"
+    ],
+    "cover": "/images/tours/maravillas-marruecos.jpg",
+    "coverPosition": "50% 30%"
+  },
+  {
+    "id": "egipto-semana-santa",
+    "type": "internacional",
+    "featured": false,
+    "title": {
+      "es": "Semana Santa en Egipto",
+      "en": "Easter Week in Egypt"
+    },
+    "summary": {
+      "es": "El Cairo y crucero por el Nilo, con vuelos desde JFK.",
+      "en": "Cairo and a Nile cruise, with flights from JFK."
+    },
+    "description": {
+      "es": "El Cairo más crucero por el río Nilo. Incluye vuelos JFK–El Cairo–JFK, vuelos domésticos, 3 noches en El Cairo con desayuno, 4 noches en crucero fluvial con comidas, pirámides de Giza, museo, Luxor, Karnak, Edfu, Kom Ombo y Asuán, y un paseo en faluca. Última salida publicada: 23 al 31 de marzo 2024, USD 2,990 por persona. No incluye visado (USD 40), bebidas ni propinas (USD 40 por persona). Confirma próximas fechas por WhatsApp.",
+      "en": "Cairo plus a Nile River cruise. Includes JFK–Cairo–JFK flights, domestic flights, 3 nights in Cairo with breakfast, 4 nights on a river cruise with meals, the Giza pyramids, the museum, Luxor, Karnak, Edfu, Kom Ombo and Aswan, and a felucca ride. Last published departure: March 23–31, 2024, USD 2,990 per person. Visa (USD 40), drinks and tips (USD 40 per person) are not included. Confirm upcoming dates on WhatsApp."
+    },
+    "duration": {
+      "es": "3 noches en El Cairo + 4 noches en crucero",
+      "en": "3 nights in Cairo + 4 nights on the cruise"
+    },
+    "dates": {
+      "es": "Consulte próximas salidas",
+      "en": "Ask about upcoming dates"
+    },
+    "price": {
+      "adult": 2990,
+      "child": null,
+      "currency": "USD"
+    },
+    "includes": {
+      "es": [
+        "Vuelos JFK–El Cairo–JFK",
+        "Vuelos domésticos El Cairo–Luxor y Asuán–El Cairo",
+        "3 noches en El Cairo con alojamiento y desayuno",
+        "4 noches en crucero fluvial con desayuno, comidas y cenas",
+        "Traslados de llegada y salida",
+        "Pirámides de Giza, museo y ciudadela de El Cairo",
+        "Templos de Luxor y Karnak, Valle de los Reyes y Edfu",
+        "Paseo en faluca y danzas típicas en Asuán"
+      ],
+      "en": [
+        "JFK–Cairo–JFK flights",
+        "Domestic flights Cairo–Luxor and Aswan–Cairo",
+        "3 nights in Cairo with lodging and breakfast",
+        "4 nights on a river cruise with breakfast, meals and dinners",
+        "Arrival and departure transfers",
+        "Giza pyramids, museum and Cairo Citadel",
+        "Luxor and Karnak temples, Valley of the Kings and Edfu",
+        "Felucca ride and traditional dances in Aswan"
+      ]
+    },
+    "excludes": {
+      "es": [
+        "Visado USD 40",
+        "Bebidas",
+        "Propinas USD 40 por persona"
+      ],
+      "en": [
+        "Visa USD 40",
+        "Drinks",
+        "Tips USD 40 per person"
+      ]
+    },
+    "destinations": {
+      "es": [
+        "El Cairo",
+        "Giza",
+        "Luxor",
+        "Valle de los Reyes",
+        "Edfu",
+        "Kom Ombo",
+        "Asuán"
+      ],
+      "en": [
+        "Cairo",
+        "Giza",
+        "Luxor",
+        "Valley of the Kings",
+        "Edfu",
+        "Kom Ombo",
+        "Aswan"
+      ]
+    },
+    "images": [
+      "/images/packages/egipto-semana-santa/flyer.jpg"
+    ],
+    "cover": "/images/tours/egipto-semana-santa.jpg"
+  },
+  {
+    "id": "crucero-costa-pacifica",
+    "type": "internacional",
+    "featured": false,
+    "title": {
+      "es": "Crucero Costa Pacífica",
+      "en": "Costa Pacífica Cruise"
+    },
+    "summary": {
+      "es": "Salida grupal a Santa Lucía, Barbados, Guadalupe, Antigua y Tórtola. Desde cabina interior.",
+      "en": "Group sailing to Saint Lucia, Barbados, Guadeloupe, Antigua and Tortola. From an interior cabin."
+    },
+    "description": {
+      "es": "Salida grupal con transporte a La Romana, seguro de cancelación e impuesto de puerto. Precios publicados por persona: cabina interior USD 1,200, cabina exterior USD 1,300 y cabina balcón USD 1,550. Paquete de bebidas My Drink Package opcional por USD 230. No incluye impuesto de salida de USD 20. Requisito publicado: visado de Estados Unidos y tarjeta de vacunación. Última salida: 12 al 19 de febrero 2023. El precio de la tarjeta es el de cabina interior. Confirma próximas fechas por WhatsApp.",
+      "en": "Group departure with transportation to La Romana, cancellation insurance and port tax. Published prices per person: interior cabin USD 1,200, ocean-view cabin USD 1,300 and balcony cabin USD 1,550. Optional My Drink Package for USD 230. Departure tax of USD 20 is not included. Published requirement: a U.S. visa and completed vaccination card. Last departure: February 12–19, 2023. The card price is the interior cabin. Confirm upcoming dates on WhatsApp."
+    },
+    "duration": {
+      "es": "8 días / 7 noches",
+      "en": "8 days / 7 nights"
+    },
+    "dates": {
+      "es": "Consulte próximas salidas",
+      "en": "Ask about upcoming dates"
+    },
+    "price": {
+      "adult": 1200,
+      "child": null,
+      "currency": "USD"
+    },
+    "includes": {
+      "es": [
+        "Transporte a La Romana",
+        "Seguro de cancelación",
+        "Impuesto de puerto",
+        "Cabina (el precio mostrado es cabina interior)"
+      ],
+      "en": [
+        "Transportation to La Romana",
+        "Cancellation insurance",
+        "Port tax",
+        "Cabin (the price shown is an interior cabin)"
+      ]
+    },
+    "excludes": {
+      "es": [
+        "Impuesto de salida USD 20",
+        "Paquete de bebidas My Drink Package USD 230 (opcional)",
+        "Upgrade a cabina exterior (USD 1,300) o balcón (USD 1,550)"
+      ],
+      "en": [
+        "Departure tax USD 20",
+        "My Drink Package USD 230 (optional)",
+        "Upgrade to ocean-view cabin (USD 1,300) or balcony (USD 1,550)"
+      ]
+    },
+    "destinations": {
+      "es": [
+        "La Romana",
+        "Santa Lucía",
+        "Barbados",
+        "Guadalupe",
+        "Antigua",
+        "Tórtola"
+      ],
+      "en": [
+        "La Romana",
+        "Saint Lucia",
+        "Barbados",
+        "Guadeloupe",
+        "Antigua",
+        "Tortola"
+      ]
+    },
+    "images": [
+      "/images/packages/crucero-costa-pacifica/flyer.jpg"
+    ],
+    "cover": "/images/tours/crucero-costa-pacifica.jpg"
+  }
+]

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080" role="img" aria-label="James Travel">
+  <defs>
+    <linearGradient id="bg0" gradientTransform="rotate(135)">
+      <stop offset="0%" stop-color="#0B5C7A"/>
+      <stop offset="55%" stop-color="#1C93C2"/>
+      <stop offset="100%" stop-color="#F4B400"/>
+    </linearGradient>
+    <radialGradient id="sun0">
+      <stop offset="0%" stop-color="#FFD166"/>
+      <stop offset="100%" stop-color="#F4B400" stop-opacity="0.85"/>
+    </radialGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#bg0)"/>
+  <circle cx="1497.6000000000001" cy="302.40000000000003" r="172.8" fill="url(#sun0)"/>
+  <path d="M0 777.6 Q 480 734.4000000000001 960 777.6 T 1920 777.6 V 1080 H0 Z" fill="#0B5C7A" opacity="0.55"/>
+  <path d="M0 885.5999999999999 Q 480 842.4 960 885.5999999999999 T 1920 885.5999999999999 V 1080 H0 Z" fill="#0B2436" opacity="0.35"/>
+  <rect x="0" y="962" width="1920" height="118" fill="#0B2436" opacity="0.38"/>
+  <text x="40" y="1018" font-family="Georgia, 'Times New Roman', serif" font-size="40" fill="#FFFFFF" font-weight="600">James Travel</text>
+  <text x="40" y="1054" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#FFFFFF" opacity="0.85">Santiago, República Dominicana</text>
+</svg>
