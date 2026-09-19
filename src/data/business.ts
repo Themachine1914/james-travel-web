@@ -14,10 +14,9 @@ export const business = {
     es: "Santiago de los Caballeros, República Dominicana",
     en: "Santiago de los Caballeros, Dominican Republic",
   },
-  // Leave empty until the client confirms the real accounts; the footer
-  // only shows a social link when its URL is filled in.
+  // The footer only shows a social link when its URL is filled in.
   social: {
-    instagram: "",
+    instagram: "https://www.instagram.com/jamestravelrd",
     facebook: "",
   },
   // Deposit accounts exactly as printed on James Travel's own
