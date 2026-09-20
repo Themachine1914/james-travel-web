@@ -83,6 +83,7 @@ export const business = {
       ],
     },
     international: {
+      bank: "Bank of America",
       beneficiary: "ETB Tours, LLC",
       address: "950 S Pine Island Road, A-150, Plantation, FL 33324",
       zelle: "michelle@etbtours.net",

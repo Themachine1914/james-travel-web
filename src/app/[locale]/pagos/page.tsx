@@ -105,6 +105,7 @@ export default async function PaymentsPage({
               title={t("wireTitle")}
               icon={<BankIcon />}
               rows={[
+                { label: t("bankName"), value: international.bank },
                 { label: t("beneficiary"), value: international.beneficiary },
                 { label: t("beneficiaryAddress"), value: international.address, copyable: true },
                 { label: t("accountNumber"), value: international.accountNumber, copyable: true },
