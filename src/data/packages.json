@@ -94,12 +94,10 @@
       "/images/packages/lo-mejor-de-turquia/flyer.jpg"
     ],
     "cover": "/images/tours/lo-mejor-de-turquia.jpg",
-    "coverPosition": "50% 40%",
+    "coverPosition": "50% 35%",
     "departsOn": "2027-03-19",
     "gallery": [
-      "/images/tours/lo-mejor-de-turquia.jpg",
-      "/images/tours/lo-mejor-de-turquia-2.jpg",
-      "/images/tours/lo-mejor-de-turquia-3.jpg"
+      "/images/tours/lo-mejor-de-turquia.jpg"
     ]
   },
   {
@@ -189,12 +187,10 @@
       "/images/packages/crucero-seattle-alaska/flyer.jpg"
     ],
     "cover": "/images/tours/crucero-seattle-alaska.jpg",
-    "coverPosition": "50% 35%",
+    "coverPosition": "50% 45%",
     "departsOn": "2027-05-07",
     "gallery": [
-      "/images/tours/crucero-seattle-alaska.jpg",
-      "/images/tours/crucero-seattle-alaska-2.jpg",
-      "/images/tours/crucero-seattle-alaska-3.jpg"
+      "/images/tours/crucero-seattle-alaska.jpg"
     ]
   },
   {
@@ -288,12 +284,11 @@
       "/images/packages/costa-rica/flyer.jpg"
     ],
     "cover": "/images/tours/costa-rica.jpg",
-    "coverPosition": "50% 45%",
+    "coverPosition": "50% 38%",
     "departsOn": "2027-05-01",
     "gallery": [
       "/images/tours/costa-rica.jpg",
-      "/images/tours/costa-rica-2.jpg",
-      "/images/tours/costa-rica-3.jpg"
+      "/images/tours/costa-rica-arenal-selva.jpg"
     ]
   },
   {
@@ -385,6 +380,7 @@
       "/images/packages/tour-sur-profundo/flyer.jpg"
     ],
     "cover": "/images/tours/tour-sur-profundo.jpg",
+    "coverPosition": "50% 32%",
     "departsOn": "2026-11-07",
     "gallery": [
       "/images/tours/tour-sur-profundo.jpg",
@@ -550,7 +546,11 @@
     "images": [
       "/images/packages/atractivos-samana/flyer.jpg"
     ],
-    "cover": "/images/tours/atractivos-samana.jpg"
+    "cover": "/images/tours/atractivos-samana.jpg",
+    "gallery": [
+      "/images/tours/atractivos-samana.jpg",
+      "/images/tours/playa-samana-2.jpg"
+    ]
   },
   {
     "id": "montana-redonda",
@@ -631,7 +631,7 @@
       "/images/packages/montana-redonda/flyer.jpg"
     ],
     "cover": "/images/tours/montana-redonda.jpg",
-    "coverPosition": "50% 58%"
+    "coverPosition": "50% 45%"
   },
   {
     "id": "buggies-puerto-plata",
@@ -850,6 +850,7 @@
       "/images/packages/tour-panama/flyer.jpg"
     ],
     "cover": "/images/tours/tour-panama.jpg",
+    "coverPosition": "50% 48%",
     "departsOn": "2027-01-21",
     "gallery": [
       "/images/packages/tour-panama/flyer.jpg"
@@ -913,7 +914,7 @@
     ],
     "cover": "/images/tours/europa-imperdible.jpg",
     "departsOn": "2027-03-19",
-    "coverPosition": "50% 40%",
+    "coverPosition": "50% 32%",
     "gallery": [
       "/images/packages/europa-imperdible/flyer.jpg"
     ]
@@ -973,6 +974,7 @@
       "/images/packages/peru-unico/flyer.jpg"
     ],
     "cover": "/images/tours/peru-unico.jpg",
+    "coverPosition": "50% 62%",
     "departsOn": "2027-03-21",
     "gallery": [
       "/images/packages/peru-unico/flyer.jpg"
@@ -1050,7 +1052,7 @@
     ],
     "cover": "/images/tours/otono-europeo.jpg",
     "departsOn": "2026-10-23",
-    "coverPosition": "50% 75%"
+    "coverPosition": "50% 32%"
   },
   {
     "id": "primavera-europea",
@@ -1202,7 +1204,8 @@
     "images": [
       "/images/packages/europa-del-este/flyer.jpg"
     ],
-    "cover": "/images/tours/europa-del-este.jpg"
+    "cover": "/images/tours/europa-del-este.jpg",
+    "coverPosition": "50% 28%"
   },
   {
     "id": "verano-europeo",
@@ -1255,7 +1258,7 @@
       "/images/packages/verano-europeo/flyer.jpg"
     ],
     "cover": "/images/tours/verano-europeo.jpg",
-    "coverPosition": "50% 30%"
+    "coverPosition": "50% 42%"
   },
   {
     "id": "colombia-luxury",
@@ -1416,7 +1419,7 @@
       "/images/packages/maravillas-marruecos/flyer.jpg"
     ],
     "cover": "/images/tours/maravillas-marruecos.jpg",
-    "coverPosition": "50% 30%"
+    "coverPosition": "50% 45%"
   },
   {
     "id": "egipto-semana-santa",
@@ -1504,7 +1507,8 @@
     "images": [
       "/images/packages/egipto-semana-santa/flyer.jpg"
     ],
-    "cover": "/images/tours/egipto-semana-santa.jpg"
+    "cover": "/images/tours/egipto-semana-santa.jpg",
+    "coverPosition": "50% 38%"
   },
   {
     "id": "crucero-costa-pacifica",

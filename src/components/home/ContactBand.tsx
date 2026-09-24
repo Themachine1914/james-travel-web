@@ -40,7 +40,7 @@ export async function ContactBand() {
 
           <div className="relative mx-auto hidden h-[360px] w-[400px] shrink-0 lg:block">
             <div className="absolute left-[60px] top-0 h-[280px] w-[280px] overflow-hidden rounded-full border-[10px] border-white">
-              <Image src="/images/tours/montana-redonda.jpg" alt="" fill sizes="280px" className="object-cover object-[50%_25%]" />
+              <Image src="/images/tours/montana-redonda.jpg" alt="" fill sizes="280px" className="object-cover object-[50%_42%]" />
             </div>
             <div className="absolute left-0 top-[210px] h-[170px] w-[170px] overflow-hidden rounded-full border-8 border-white">
               <Image src="/images/tours/tour-sur-profundo-2.jpg" alt="" fill sizes="170px" className="object-cover" />

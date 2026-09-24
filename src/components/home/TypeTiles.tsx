@@ -16,7 +16,7 @@ export async function TypeTiles() {
 
   const tiles: { type: PackageType; title: string; image: string; position: string }[] = [
     { type: "nacional", title: t("nationalTours"), image: "/images/tours/atractivos-samana.jpg", position: "50% 50%" },
-    { type: "internacional", title: t("internationalTours"), image: "/images/tours/verano-europeo.jpg", position: "50% 30%" },
+    { type: "internacional", title: t("internationalTours"), image: "/images/tours/verano-europeo.jpg", position: "50% 42%" },
   ];
 
   return (
