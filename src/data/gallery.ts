@@ -13,6 +13,18 @@ export interface GalleryItem {
 
 export const generalGallery: GalleryItem[] = [
   {
+    src: "/images/packages/tour-panama/flyer.jpg",
+    caption: { es: "Tour a Panamá", en: "Panama tour" },
+  },
+  {
+    src: "/images/packages/europa-imperdible/flyer.jpg",
+    caption: { es: "Europa Imperdible", en: "Unmissable Europe" },
+  },
+  {
+    src: "/images/packages/peru-unico/flyer.jpg",
+    caption: { es: "Perú Único", en: "Unique Peru" },
+  },
+  {
     src: "/images/packages/lo-mejor-de-turquia/flyer.jpg",
     caption: { es: "Lo mejor de Turquía", en: "The Best of Turkey" },
   },

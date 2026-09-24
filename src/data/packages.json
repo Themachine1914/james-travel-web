@@ -778,6 +778,207 @@
     "cover": "/images/tours/ballenas-jorobadas.jpg"
   },
   {
+    "id": "tour-panama",
+    "type": "internacional",
+    "featured": true,
+    "title": {
+      "es": "Tour a Panamá",
+      "en": "Panama tour"
+    },
+    "summary": {
+      "es": "Ciudad de Panamá, el Canal y un día en San Blas, del 21 al 25 de enero 2027.",
+      "en": "Panama City, the Canal and a day in San Blas, January 21–25, 2027."
+    },
+    "description": {
+      "es": "Del 21 al 25 de enero de 2027. Precio por persona en habitación doble: USD 1,595; en habitación sencilla: USD 1,895. Incluye boleto aéreo SDQ–PTY–SDQ con maleta de mano, 4 noches de hotel en Ciudad de Panamá con desayuno, recorrido por la ciudad, entrada al Canal, día completo en la Isla de San Blas y visita a la tribu Emberá.",
+      "en": "January 21 to 25, 2027. Price per person, double occupancy: USD 1,595; single occupancy: USD 1,895. Includes SDQ–PTY–SDQ airfare with a carry-on, 4 hotel nights in Panama City with breakfast, a city tour, admission to the Canal, a full day on San Blas Island and a visit to the Emberá tribe."
+    },
+    "duration": {
+      "es": "5 días / 4 noches",
+      "en": "5 days / 4 nights"
+    },
+    "dates": {
+      "es": "Del 21 al 25 de enero 2027",
+      "en": "January 21–25, 2027"
+    },
+    "price": {
+      "adult": 1595,
+      "child": null,
+      "currency": "USD"
+    },
+    "includes": {
+      "es": [
+        "Boleto aéreo SDQ–PTY–SDQ con maleta de mano (12 kg)",
+        "Traslados aeropuerto–hotel–aeropuerto",
+        "4 noches de hotel en Ciudad de Panamá con desayuno",
+        "Recorrido por la ciudad de Panamá",
+        "Entrada al Canal de Panamá",
+        "Excursión de día completo a la Isla de San Blas con almuerzo",
+        "Visita a la tribu Emberá con almuerzo",
+        "Espectáculo folclórico y cena de bienvenida",
+        "Seguro de viajes",
+        "Traslado Santiago–aeropuerto de Santo Domingo"
+      ],
+      "en": [
+        "SDQ–PTY–SDQ airfare with a carry-on (12 kg)",
+        "Airport–hotel–airport transfers",
+        "4 hotel nights in Panama City with breakfast",
+        "Panama City tour",
+        "Admission to the Panama Canal",
+        "Full-day excursion to San Blas Island with lunch",
+        "Visit to the Emberá tribe with lunch",
+        "Folklore show and welcome dinner",
+        "Travel insurance",
+        "Transfer from Santiago to Santo Domingo airport"
+      ]
+    },
+    "destinations": {
+      "es": [
+        "Ciudad de Panamá",
+        "Canal de Panamá",
+        "Isla de San Blas",
+        "Tribu Emberá"
+      ],
+      "en": [
+        "Panama City",
+        "Panama Canal",
+        "San Blas Island",
+        "Emberá tribe"
+      ]
+    },
+    "images": [
+      "/images/packages/tour-panama/flyer.jpg"
+    ],
+    "cover": "/images/tours/tour-panama.jpg",
+    "departsOn": "2027-01-21",
+    "gallery": [
+      "/images/packages/tour-panama/flyer.jpg"
+    ]
+  },
+  {
+    "id": "europa-imperdible",
+    "type": "internacional",
+    "featured": true,
+    "title": {
+      "es": "Europa Imperdible",
+      "en": "Unmissable Europe"
+    },
+    "summary": {
+      "es": "Barcelona, Venecia, Roma y París en Semana Santa, con aéreo desde Santo Domingo.",
+      "en": "Barcelona, Venice, Rome and Paris over Holy Week, with airfare from Santo Domingo."
+    },
+    "description": {
+      "es": "Del 19 de marzo al 2 de abril 2027, en Semana Santa. Precio por persona en habitación doble: USD 4,030. El aéreo está incluido desde Santo Domingo con Iberia. El recorrido pasa por Barcelona, Venecia, Roma y París. Si reservas antes del 30 de septiembre 2026, incluye un paseo por la Gran Vía con entrada al Casino Gran Vía de Madrid.",
+      "en": "March 19 to April 2, 2027, over Holy Week. Price per person, double occupancy: USD 4,030. Round-trip airfare from Santo Domingo on Iberia is included. The route takes in Barcelona, Venice, Rome and Paris. Book by September 30, 2026 and it includes a walk along Gran Vía with admission to the Gran Vía Casino in Madrid."
+    },
+    "duration": {
+      "es": "15 días / 14 noches",
+      "en": "15 days / 14 nights"
+    },
+    "dates": {
+      "es": "Del 19 de marzo al 2 de abril 2027",
+      "en": "March 19 – April 2, 2027"
+    },
+    "price": {
+      "adult": 4030,
+      "child": null,
+      "currency": "USD"
+    },
+    "includes": {
+      "es": [
+        "Aéreo incluido desde Santo Domingo (Iberia)",
+        "Paseo por la Gran Vía con entrada al Casino Gran Vía de Madrid, si reservas antes del 30 de septiembre 2026"
+      ],
+      "en": [
+        "Round-trip airfare from Santo Domingo (Iberia)",
+        "A walk along Gran Vía with admission to the Gran Vía Casino in Madrid, if you book by September 30, 2026"
+      ]
+    },
+    "destinations": {
+      "es": [
+        "Barcelona",
+        "Venecia",
+        "Roma",
+        "París"
+      ],
+      "en": [
+        "Barcelona",
+        "Venice",
+        "Rome",
+        "Paris"
+      ]
+    },
+    "images": [
+      "/images/packages/europa-imperdible/flyer.jpg"
+    ],
+    "cover": "/images/tours/europa-imperdible.jpg",
+    "departsOn": "2027-03-19",
+    "coverPosition": "50% 40%",
+    "gallery": [
+      "/images/packages/europa-imperdible/flyer.jpg"
+    ]
+  },
+  {
+    "id": "peru-unico",
+    "type": "internacional",
+    "featured": true,
+    "title": {
+      "es": "Perú Único",
+      "en": "Unique Peru"
+    },
+    "summary": {
+      "es": "Lima, Cusco, el Valle Sagrado y Machu Picchu en Semana Santa, del 21 al 29 de marzo 2027.",
+      "en": "Lima, Cusco, the Sacred Valley and Machu Picchu over Holy Week, March 21–29, 2027."
+    },
+    "description": {
+      "es": "Del 21 al 29 de marzo 2027, en Semana Santa. Precio por persona en habitación doble: USD 2,380. El aéreo está incluido desde Santo Domingo con Arajet. El recorrido pasa por Lima, Cusco, el Valle Sagrado y Machu Picchu.",
+      "en": "March 21–29, 2027, over Holy Week. Price per person, double occupancy: USD 2,380. Round-trip airfare from Santo Domingo on Arajet is included. The route takes in Lima, Cusco, the Sacred Valley and Machu Picchu."
+    },
+    "duration": {
+      "es": "9 días / 8 noches",
+      "en": "9 days / 8 nights"
+    },
+    "dates": {
+      "es": "Del 21 al 29 de marzo 2027",
+      "en": "March 21–29, 2027"
+    },
+    "price": {
+      "adult": 2380,
+      "child": null,
+      "currency": "USD"
+    },
+    "includes": {
+      "es": [
+        "Aéreo incluido desde Santo Domingo (Arajet)"
+      ],
+      "en": [
+        "Round-trip airfare from Santo Domingo (Arajet)"
+      ]
+    },
+    "destinations": {
+      "es": [
+        "Lima",
+        "Cusco",
+        "Valle Sagrado",
+        "Machu Picchu"
+      ],
+      "en": [
+        "Lima",
+        "Cusco",
+        "Sacred Valley",
+        "Machu Picchu"
+      ]
+    },
+    "images": [
+      "/images/packages/peru-unico/flyer.jpg"
+    ],
+    "cover": "/images/tours/peru-unico.jpg",
+    "departsOn": "2027-03-21",
+    "gallery": [
+      "/images/packages/peru-unico/flyer.jpg"
+    ]
+  },
+  {
     "id": "otono-europeo",
     "type": "internacional",
     "featured": true,
